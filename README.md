@@ -1,1 +1,1 @@
-# .github
+# SQA Group Project
